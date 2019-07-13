@@ -1,0 +1,2 @@
+This class is the core connection to the database
+It takes the DSN, database NAME, username as well as password, which are all housed in Database.php file

@@ -1,0 +1,2 @@
+It is the Class for modeling the Images, it includes creating Images, reading and deleting 
+It also has models for comments and likes, all same things

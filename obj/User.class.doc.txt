@@ -1,0 +1,2 @@
+It is the class for modeling a user
+it includes name, surname,username, email, creating as well as deleting user
